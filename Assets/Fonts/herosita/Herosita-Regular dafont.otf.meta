@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d530105ff64e1e04ba9e92a68ca179aa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Herosita
+  fontNames:
+  - Herosita
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 45740413a52b5024f91e2e55d7776b3b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
