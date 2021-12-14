@@ -42,7 +42,7 @@ public class GameTimer : MonoBehaviour
     {
         while(timerGoing)
         {
-            elapsedTime += Time.deltaTime*8;
+            elapsedTime += Time.deltaTime;
             timePlaying = TimeSpan.FromSeconds(elapsedTime);
             string timePlayingString = timePlaying.ToString("mm\\:ss");
             timeCounter.text = timePlayingString;
